@@ -1,3 +1,4 @@
+# coding=utf-8
 # 数据类型
 # comments ues'#' 注释，解释代码
 # none 空值
@@ -49,5 +50,4 @@ print("---------------------------------------------------------------")
 print(b'hello')
 s = b'hellos'
 s.decode()
-
 print(s)
